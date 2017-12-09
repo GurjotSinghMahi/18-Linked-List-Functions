@@ -1,5 +1,5 @@
-# 19-Linked-List-Functions
-This program implements 19 functions on Linked list
+# 18-Linked-List-Functions
+This program carries implementation of 18 functions on Linked list
 
 The program implements following functions:
 1. Node Creation
